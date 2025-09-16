@@ -4,10 +4,10 @@
 
 <h2>Um pouco sobre mim:</h2>
 <ul>
-  <li>🖥️ Atualmente Programador Fullstack;</li>
-  <li>🌱 Realizando estudos e aprofundamentos em JavaScript e CSS;</li>
-  <li>📚 Estudo na Universidade Paulista;</li>
-  <li>☕ Minha primeira linguagem de programação foi Java.</li>
+  <li>🖥️ Developer Fullstack | Searching for a Job;</li>
+  <li>🌱 Learning about JavaScript e CSS;</li>
+  <li>📚 Gratuating in System Analysis and Development | Universidade Paulista;</li>
+  <li>☕ Fisrt Programing Language was Java.</li>
 </ul>
 
 <h2>Estatísticas:</h2>
