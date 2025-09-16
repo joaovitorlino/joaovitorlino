@@ -14,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorlino&show_icons=true&theme=cobalt)
 
-<h2 align="center">Conhecimento:</h2>
+<h2 align="center">Stack:</h2>
 <p align="center">
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
       <img alt="JavaScript" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" height="50px" hspace="10">
@@ -52,14 +52,4 @@
       ;>
   </a>
 </p>
-
-<div>
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovitorlino/joaovitorlino/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaovitorlino/joaovitorlino/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaovitorlino/joaovitorlino/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
