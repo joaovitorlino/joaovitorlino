@@ -7,7 +7,7 @@
   <li>🖥️ Developer Fullstack | Searching for a Job;</li>
   <li>🌱 Learning about JavaScript e CSS;</li>
   <li>📚 Gratuating in System Analysis and Development | Universidade Paulista;</li>
-  <li>☕ Fisrt Programing Language was Java.</li>
+  <li>☕ First Programing Language was Java.</li>
 </ul>
 
 <h2>Estatísticas:</h2>
